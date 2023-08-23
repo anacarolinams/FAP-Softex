@@ -15,7 +15,5 @@ Estou sempre em busca de oportunidades para colaborar, aprender e crescer neste 
 
 📌 [Linkedin](https://www.linkedin.com/in/anacsmedeiros/);
 
-📌 [DIO](https://www.dio.me/users/anacsouzamedeiros);
-
 📌 [Perfil DIO](https://www.dio.me/users/anacsouzamedeiros);
 
