@@ -1,6 +1,6 @@
 # 📙 FAP - SOFTEX
 
-- Repositório destinado ao armazenamento de exercícios e projetos do curso de Formação Acelerada em Programação (Back-End - JavaScript), promovido pela [Softex Pernambuco](https://softexpe.org.br/).
+- Repositório destinado ao armazenamento de exercícios e projetos do curso de Formação Acelerada em Programação (Back-End - JavaScript), promovido pela [**Softex Pernambuco**](https://softexpe.org.br/).
 
 
 ## 🚀 Sobre mim
