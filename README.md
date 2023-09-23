@@ -13,7 +13,5 @@ Estou sempre em busca de oportunidades para colaborar, aprender e crescer neste 
 
 ## 📱 Me conheça pelas minhas outras redes:
 
-📌 [Linkedin](https://www.linkedin.com/in/anacsmedeiros/);
-
-📌 [Perfil DIO](https://www.dio.me/users/anacsouzamedeiros);
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#83d6d29)](https://www.linkedin.com/in/anacsmedeiros/) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=#83d6d2)](https://www.discord.com/in/anacsouza#8371/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=#83d6d2)](https://www.instagram.com/anac.msouza/)
 
